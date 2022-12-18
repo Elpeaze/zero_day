@@ -1,2 +1,1 @@
-#!/bin/bash
-My first remote project
+# ***My first remote project***
